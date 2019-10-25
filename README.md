@@ -4,7 +4,7 @@ By recursive search of files "*.cert.pem" inside specific directory\
 With mattermost notification, optionally\
 For example
 ```
-./cacheck.bash -p /path/to/certificates
+./cacheck.bash -p /path/to/certificates -v
 ```
 Crontab string example
 ```
